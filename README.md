@@ -29,7 +29,7 @@
 const victor = {
   idade: 21,
   localização: "Presidente Prudente - SP 🇧🇷",
-  formação: "Ciência da Computação — Unoeste (7º Termo)",
+  formação: "Ciência da Computação — Unoeste (8º Termo)",
   interesses: [
     "Software Engineering",
     "Backend Development",
