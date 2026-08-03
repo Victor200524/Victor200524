@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Victor%20Hugo%20Donaire&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer&descAlignY=58&descColor=8b949e"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Hugo+%F0%9F%91%8B;8%C2%BA+Termo+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%26+Software+Engineering+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Hugo+%F0%9F%91%8B;7%C2%BA+Termo+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%26+Software+Engineering+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-donaire-31b778165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorh_donaire/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:victor.donaire@hotmail.com)
@@ -27,17 +24,12 @@
 
 ```typescript
 const victor = {
-  idade: 21,
-  localização: "Presidente Prudente - SP 🇧🇷",
-  formação: "Ciência da Computação — Unoeste (8º Termo)",
-  interesses: [
-    "Software Engineering",
-    "Backend Development",
-    "Database Architecture",
-    "System Design"
-  ],
-  atualmente: "Explorando o ecossistema de desenvolvimento e construindo projetos sólidos",
-  objetivo: "Crescer continuamente como desenvolvedor e contribuir com soluções impactantes",
+  idade       : 21,
+  localização : "Presidente Prudente - SP 🇧🇷",
+  formação    : "Ciência da Computação — Unoeste (7º Termo)",
+  interesses  : ["Software Engineering", "Backend Development", "Database Architecture"],
+  atualmente  : "Explorando o ecossistema de dev e construindo projetos sólidos",
+  objetivo    : "Crescer como desenvolvedor e contribuir com soluções impactantes",
 };
 ```
 
@@ -89,27 +81,25 @@ const victor = {
 
 <div align="center">
 
-<a href="https://github.com/Victor200524">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor200524&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor200524&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Victor200524&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor200524&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<!-- github-readme-stats: serviço mais estável, use o deploy oficial da Vercel -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor200524&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor200524&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Victor200524&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+<!-- Snake gerada pelo próprio GitHub Actions — 100% estável, sem API externa -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Victor200524/Victor200524/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor200524/Victor200524/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor200524/Victor200524/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
 ---
